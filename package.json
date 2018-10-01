@@ -32,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/adeyems/Nigeria_Higher_Institutions_dropdown/issues"
   },
-  "homepage": "https://github.io/adeyems/Nigeria_Higher_Institutions_dropdown#readme",
+  "homepage": "https://github.io/adeyems/Nigeria_Higher_Institutions_dropdown",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
