@@ -4,7 +4,6 @@
   "description": "A list of Nigeria Higher Institutions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -32,8 +31,9 @@
   "bugs": {
     "url": "https://github.com/adeyems/Nigeria_Higher_Institutions_dropdown/issues"
   },
-  "homepage": "https://github.io/adeyems/Nigeria_Higher_Institutions_dropdown",
-  "dependencies": {
+  "homepage": "https://github.io/adeyems/Nigeria_Higher_Institutions_dropdown/dist/index.html",
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^2.0.0"
   }
 }
